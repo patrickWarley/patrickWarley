@@ -9,7 +9,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=patrickWarley&style=flat-square&color=blue" alt=""/>
 </div>
-
+<br/>
 <div align="center" height='400px'>
   <img align='left' height='100%' src="https://github-readme-streak-stats.herokuapp.com/?user=patrickWarley&theme=dark&background=000000"/>
   <img algin='right' height='100%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=patrickWarley"/>
